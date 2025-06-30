@@ -198,7 +198,6 @@ export default function Home() {
               ₹ {product.node.priceRange.minVariantPrice.amount}
               </p>
             </a>
-            // <span key="1" className="text-4xl text-black">{product.node.title}</span>
           ))}
         </div>
       </div>
